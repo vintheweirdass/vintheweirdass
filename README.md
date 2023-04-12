@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/70825723/202989546-a26a04fc-b047-4364-9970-9ca675bb056a.png)</br>
 yo hi random user!
 Im DaExplorer 👋.
-Currently im interested in node.js, electron.js, and javascript itself 😃.
+Currently im interested in node.js, electron, typescript, and lua 😃.
 For now you cannot contact / reach me because im busy.
 anyways bye 😄
 

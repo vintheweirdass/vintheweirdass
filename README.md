@@ -1,9 +1,4 @@
-![image](https://user-images.githubusercontent.com/70825723/202989546-a26a04fc-b047-4364-9970-9ca675bb056a.png)</br>
-yo hi random user!
-Im DaExplorer 👋.
-Currently im interested in node.js, electron, typescript, and lua 😃.
-
-And also im too lazy to make this readme.md so thats it
+no desc
 
 <!---
 DaExplorerCode/DaExplorerCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,24 @@ no desc
 DaExplorerCode/DaExplorerCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/98bb2f5d-762f-436f-a53f-14a1a32623c5)
-Woah, my old username
+```go
+type me struct {
+  pronouns []string;
+  frontend []string;
+  backend []string;
+  sukaBeol bool
+}
 
-goto(https://vintheweirdass.github.io)
-feel free to check it out
+// no longer active = currently dosent code at that language
+var AboutMe = me{
+    pronouns:[]string{"he", "him"},
+    frontend: []string{"html", "css", "js (not really used that much)", "svelte  (no longer active)"},
+    backend: []string{
+         "go", "dart", "c++", "rust (still learning)",
+        "sqlite", "pocketbase (still learning)",
+        "nodejs (no longer active)", "deno (no longer active)"
+    },
+    sukaBeol true,
+}
+```
+just those tbh

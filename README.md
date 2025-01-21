@@ -9,6 +9,7 @@ type me struct {
   pronouns []string;
   frontend []string;
   backend []string;
+  // do you like to take a shit?
   sukaBeol bool
 }
 
@@ -21,7 +22,7 @@ var AboutMe = me{
         "sqlite", "pocketbase (still learning)",
         "nodejs (no longer active)", "deno (no longer active)"
     },
-    sukaBeol true,
+    sukaBeol: true,
 }
 ```
 just those tbh

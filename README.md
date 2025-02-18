@@ -20,7 +20,7 @@ var AboutMe = me{
     backend: []string{
          "go", "dart", "c++", "rust (still learning)",
         "sqlite", "pocketbase (still learning)",
-        "nodejs (no longer active)", "deno (no longer active)"
+        "nodejs (no longer active)", "deno"
     },
     sukaBeol: true,
 }

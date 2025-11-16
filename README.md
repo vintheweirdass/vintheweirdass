@@ -1,3 +1,5 @@
+**MIGRATING TO MY PERSONAL [FORGEJO](https://forgejo.org). Some of them would'nt be moved**
+
 🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸
 
 <!---

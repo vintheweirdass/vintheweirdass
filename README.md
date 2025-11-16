@@ -1,4 +1,4 @@
-**MIGRATING TO MY PERSONAL [FORGEJO](https://forgejo.org). Some of them would'nt be moved**
+**MIGRATING TO MY [PERSONAL FORGEJO](https://git.vtwa.is-a.dev). Some of them would'nt be moved**
 
 🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸
 
